@@ -6,3 +6,28 @@ img {
 #search-bar {
     display: flex;
 }
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    display: inline;
+    margin: 0px 5px 0px 5px;
+}
+
+#sign-in {
+    display: inline;
+    color: white;
+    background-color: rgb(71, 144, 238);
+    border-radius: 18%;
+}
+
+.nav-left {
+    float: left;
+}
+.nav-right {
+    float: right;
+}
