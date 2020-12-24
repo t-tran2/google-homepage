@@ -1,0 +1,8 @@
+img {
+    display: block;
+    float: left;
+}
+
+#search-bar {
+    display: flex;
+}
